@@ -4,5 +4,5 @@
 
 package gocarp
 
-// Version is the current gocarp version.
-const Version = "v1.0.0"
+// Version is the current version.
+const Version = "v1.1.0"
